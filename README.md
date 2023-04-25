@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Faizan2225/faizan2225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
