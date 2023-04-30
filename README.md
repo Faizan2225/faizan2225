@@ -3,7 +3,7 @@
 </div>
 
 <div id="intro" align="center">
-  <h1>Hello there 🤝, myelf Faizan from Lahore 🇵🇰</h1>
+  <h1>Hello there 🤝, myself Faizan from Lahore 🇵🇰</h1>
   <p>As a MERN stack developer and coding enthusiast, I strive to learn new technologies every passing day. I aspire to leave behind a legacy of convoluted code that will make newbies scratch their heads and wonder, "What in the world was this old-timer upto?😅"
 
 While my desire to confuse future generations of developers is certainly humorous, it also speaks to my dedication to the craft of coding. I am driven by a deep love for coding and the endless possibilities it presents. It is my hope that the projects I create will serve as a testament to the power of perseverance, creativity, and innovation in the ever-evolving world of coding.</p>
