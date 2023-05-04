@@ -50,8 +50,6 @@ While my desire to confuse future generations of developers is certainly humorou
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan2225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faizan2225&theme=dark&border_radius=4.4&ring=00D9EB&currStreakLabel=00DBEB)](https://git.io/streak-stats)
-
 ## Latest Project:
 https://plspmovers.com/
 
