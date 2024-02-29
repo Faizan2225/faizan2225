@@ -41,7 +41,7 @@ I am driven by a deep love for coding and the endless possibilities it presents.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="svelte" **alt="svelte" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind" title="tailwind" **alt="tailwind" width="40" height="40"/>
 </div>
 
 
