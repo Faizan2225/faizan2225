@@ -10,12 +10,6 @@
   <a href="https://www.instagram.com/faizan__1890">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.facebook.com/faizangujjar02">
-     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.fiverr.com/faizan2225">
-    <img src="https://img.shields.io/badge/fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
-  </a>
 </div>
 
 <div align="center"> 
@@ -24,7 +18,7 @@
 
 <div align="center">
     
-<h2> Languages and Tools: <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="50"/> </h2>
+<h2> Languages and Tools: </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -35,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="svelte" **alt="svelte" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="nestjs" **alt="nestjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>
 </div>
 
@@ -47,5 +43,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan2225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Project:
-https://plspmovers.com/
+https://glo-school.org/
 
