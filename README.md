@@ -1,5 +1,5 @@
 <div id="intro" align="center">
-  <h1>Faizan from Lahore 🇵🇰</h1>
+  <h1>Faizan 🇵🇰</h1>
   <p>As a MERN stack developer and coding enthusiast, I strive to learn new technologies every passing day.
 
 I am driven by a deep love for coding and the endless possibilities it presents. I hope that the projects I create will serve as a testament to the power of perseverance, creativity, and innovation in the ever-evolving world of coding.</p>
