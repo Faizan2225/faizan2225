@@ -1,6 +1,6 @@
 <div id="intro" align="center">
   <h1>Faizan 🇵🇰</h1>
-  <p>As a MERN stack developer and coding enthusiast, I strive to learn new technologies every passing day. I’m pursuing a bachelor's degree in software engineering, which is slated for completion in 2027.</p>
+  <p>As a full stack developer and coding enthusiast, I strive to learn new technologies every passing day. And I’m pursuing a bachelor's degree in software engineering, which is slated for completion in 2027.</p>
 </div>
 
 <div id="badges" align="center">
