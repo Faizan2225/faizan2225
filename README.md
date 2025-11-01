@@ -27,6 +27,4 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan2225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Latest Project:
-https://glo-school.org/
 
